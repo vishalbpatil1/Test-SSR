@@ -1,6 +1,6 @@
 # Test-SSR
-
-  ''' srs_wor([1,2,3,4],2)
+```
+srs_wor([1,2,3,4],2)
      Sample  sample_mean  sample variance
 0  (1, 2)          1.5              0.5
 1  (1, 3)          2.0              2.0
@@ -9,6 +9,8 @@
 4  (2, 4)          3.0              2.0
 5  (3, 4)          3.5              0.5
 Estimate of population mean :  2.5
+
+
 srs_wr([1,2,3,4],2)
 Sample  sample_mean  sample variance
 0   (1, 1)          1.0              0.0
@@ -28,4 +30,6 @@ Sample  sample_mean  sample variance
 14  (4, 3)          3.5              0.5
 15  (4, 4)          4.0              0.0
 Estimate of population mean :  2.5
-'''
+```
+
+
